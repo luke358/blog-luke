@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://blog.lukefun.com/",
   desc: "Luke Zhu's blog",
   title: "Luke Zhu's blog",
-  // ogImage: "astropaper-og.jpg",
+  ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
